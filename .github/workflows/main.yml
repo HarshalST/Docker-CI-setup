@@ -1,4 +1,4 @@
-name: Docker_CI_setup
+name: Docker_CI_setup_using_self-hosted_runner
 on:
   push:
 jobs:
